@@ -10,7 +10,7 @@ K-means clustering is very faster, it can handle up to 1M records in a very shor
 |AffinityPropagation|	2000|	10000|	25000|	100000|
 |Spectral|	2000|	5000|	25000|	75000|
 |Agglomerative|	2000|	10000|	25000|	100000|
-|DeBaCl|	5000	25000|	75000|	250000|
+|DeBaCl|	5000|	25000|	75000|	250000|
 |ScipySingleLinkage|	25000|	50000|	100000|	250000|
 |Fastcluster|	50000|	100000|	500000|	1000000|
 |HDBSCAN|	100000|	500000|	1000000|	5000000|
