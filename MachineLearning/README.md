@@ -1,9 +1,13 @@
 Machine Learning
 ==========
 
+## [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+
+[Here](https://jakevdp.github.io/PythonDataScienceHandbook/05.00-machine-learning.html) are the chapters about Machine Learning.
+
 ## K-Means clustering
 
-K-means clustering is very faster, it can handle up to 1M records in a very short time. Benchmark of different clustering methods can be find [here](http://hdbscan.readthedocs.io/en/latest/performance_and_scalability.html).
+K-means clustering is very faster, it can handle up to 1M records in a very short time. Benchmarks of different clustering methods can be find [here](http://hdbscan.readthedocs.io/en/latest/performance_and_scalability.html).
 
 |	| Interactive|	Get Coffee|	Over Lunch|	Overnight|
 |---|---|---|---|---|
@@ -17,4 +21,8 @@ K-means clustering is very faster, it can handle up to 1M records in a very shor
 |DBSCAN|	75000|	250000|	1000000|	2500000|
 |SKLearn KMeans|	1000000000|	1000000000|	1000000000|	1000000000|
 
-Given simple, well-separated data, k-means finds suitable clustering results. 
+Given simple, well-separated data, k-means finds suitable clustering results. An important observation for k-means is that these cluster models must be circular: k-means has no built-in way of accounting for oblong or elliptical clusters.
+
+Two disadvantages of k-means:
+  - Lack of flexibility in cluster shape (force-fit data into circular clusters) 
+  - Lack of probabilistic cluster assignment (simple distance-from-cluster-center to assign cluster membership) 
