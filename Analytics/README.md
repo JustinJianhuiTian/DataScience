@@ -15,7 +15,7 @@ The next thing is about Virality. Whether or not your product/service will go vi
 
 Metrics are very important for any analytics. Especially for products, good metrics tell all and will be key for business. 
 
-Take Facebook **groups** for example. 
+Take Facebook **groups** for example. Metrics for **groups** are all about growth, engagement and membership.
 
 The first question to ask is why Facebook is promoting **Groups**. Facebook is evolving to focus more on building communities, and groups are the natural tools to help forge those new kinds of connections. A Facebook group is a page created for an organization or business to promote activities. Groups “allow people to come together around a common cause, issue or activity to organize, express objectives, discuss issues, post photos and share related content.” On the other side, there is Facebook Pages. Facebook Pages enable public figures, businesses, organizations and other entities to create an authentic and public presence on Facebook.
 
