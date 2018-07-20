@@ -32,3 +32,5 @@ Two disadvantages of k-means:
 1. [Pareto/NBD Model](https://www.datascience.com/blog/intro-to-predictive-modeling-for-customer-lifetime-value)
 
 2. [Survival Analysis](https://www.youtube.com/watch?v=lBijo0WhwYM)
+
+3. [A collection of methods](http://srepho.github.io/CLV/CLV)
