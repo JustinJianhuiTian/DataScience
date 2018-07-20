@@ -26,3 +26,5 @@ Given simple, well-separated data, k-means finds suitable clustering results. An
 Two disadvantages of k-means:
   - Lack of flexibility in cluster shape (force-fit data into circular clusters) 
   - Lack of probabilistic cluster assignment (simple distance-from-cluster-center to assign cluster membership) 
+
+## [Customer Lifetime Value](https://www.datascience.com/blog/intro-to-predictive-modeling-for-customer-lifetime-value)
