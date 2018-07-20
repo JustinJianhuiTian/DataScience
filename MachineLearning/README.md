@@ -27,4 +27,8 @@ Two disadvantages of k-means:
   - Lack of flexibility in cluster shape (force-fit data into circular clusters) 
   - Lack of probabilistic cluster assignment (simple distance-from-cluster-center to assign cluster membership) 
 
-## [Customer Lifetime Value](https://www.datascience.com/blog/intro-to-predictive-modeling-for-customer-lifetime-value)
+## Customer Lifetime Value
+
+1. [Pareto/NBD Model](https://www.datascience.com/blog/intro-to-predictive-modeling-for-customer-lifetime-value)
+
+2. [Survival Analysis](https://www.youtube.com/watch?v=lBijo0WhwYM)
