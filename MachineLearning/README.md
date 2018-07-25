@@ -40,6 +40,7 @@ Two disadvantages of k-means:
  
   4. [Lifetimes](https://github.com/CamDavidsonPilon/lifetimes)
     - a python package to calculate CLV
+    - [This is a tutorial to calculate CLV using this package.](https://www.internetrix.com.au/blog/how-to-model-customer-lifetime-value/)
  
 ## Marketing
 
