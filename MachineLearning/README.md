@@ -37,7 +37,10 @@ Two disadvantages of k-means:
     - Contractual tends to be easier to deal with as there is certainty of the clients current status (Alive vs. Dead).
 
   3. [A collection of methods](http://srepho.github.io/CLV/CLV)
-  
+ 
+  4. [Lifetimes](https://github.com/CamDavidsonPilon/lifetimes)
+    - a python package to calculate CLV
+ 
 ## Marketing
 
   1. [Bruce G.S. Hardie](http://www.brucehardie.com/talks.html)  
