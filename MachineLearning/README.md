@@ -31,16 +31,19 @@ Two disadvantages of k-means:
 
   1. [Pareto/NBD Model](https://www.datascience.com/blog/intro-to-predictive-modeling-for-customer-lifetime-value)
      - non-contractual context: movie retenal, hotel stay, grocery shopping, etc.
+	 
+  2. [Lifetimes](https://github.com/CamDavidsonPilon/lifetimes)
+     - a python package to calculate CLV
+     - [This is a tutorial to calculate CLV using this package.](https://www.internetrix.com.au/blog/how-to-model-customer-lifetime-value/)
+	 - [BG/NBD Model](http://www.brucehardie.com/talks/cba_tut_art_15_HO.pdf)
 
-  2. [Survival Analysis](https://www.youtube.com/watch?v=lBijo0WhwYM)
+  3. [Survival Analysis](https://www.youtube.com/watch?v=lBijo0WhwYM)
      - contractual context: credit cards, netflix, fitness club, etc. 
      - Contractual tends to be easier to deal with as there is certainty of the clients current status (Alive vs. Dead).
 
-  3. [A collection of methods](http://srepho.github.io/CLV/CLV)
+  4. [A collection of methods](http://srepho.github.io/CLV/CLV)
  
-  4. [Lifetimes](https://github.com/CamDavidsonPilon/lifetimes)
-     - a python package to calculate CLV
-     - [This is a tutorial to calculate CLV using this package.](https://www.internetrix.com.au/blog/how-to-model-customer-lifetime-value/)
+  
  
 ## Marketing
 
