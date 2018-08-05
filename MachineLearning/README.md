@@ -53,8 +53,8 @@ Two disadvantages of k-means:
 	 - BG/NBD Model - non-contractual, discrete situation
 	   (Fader, Hardie and Lee 2005c)
 	   - Transaction Process:
-	     - While alive, the number of transactions made by a customer follows a Poisson process with mean transaction rate \lambda.
-	     - Heterogeneity in transaction rates across customers is distributed gamma(\gamma,\alpha).
+	     - While alive, the number of transactions made by a customer follows a Poisson process with mean transaction rate **lambda**.
+	     - Heterogeneity in transaction rates across customers is distributed gamma(**gamma**, **alpha**).
 	   - Latent Attrition Process:
-         - After any transaction, a customer dies with probability p.
-         - Heterogeneity in death probabilities across customers is distributed beta(a, b).
+         - After any transaction, a customer dies with probability **p**.
+         - Heterogeneity in death probabilities across customers is distributed beta(**a**, **b**).
